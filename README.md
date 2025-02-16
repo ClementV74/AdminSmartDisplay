@@ -1,5 +1,6 @@
 # 🖥️ Projet de Gestion d'Affichage Dynamique
 
+> **Pour voir le code merci de me contacter**  
 > **La communication est devenue essentielle pour le bon fonctionnement administratif et l'épanouissement de la vie étudiante.**  
 > **Notre solution d'affichage dynamique permet une diffusion simple, instantanée, moderne et écologique des informations.**
 
@@ -26,11 +27,6 @@
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) **Kotlin pour la gestion des tokens d'authentification.**
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL pour la base de données.**
 
-## 📥 Installation et Configuration
-
-1. **Clonez ce dépôt :**
-   ```bash
-   git clone https://github.com/ClementV74/admin
 
 
 ![image](https://github.com/user-attachments/assets/e005fedf-2444-4553-8384-b8f93f434f70)
